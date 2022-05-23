@@ -1,0 +1,35 @@
+#add_more_product a{
+    text-decoration: none;
+    color: black;
+}
+#all_products{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 20px 40px;
+    /* border: 1px solid red; */
+    margin-top: 20px;
+}
+/* #main{
+    border: 1px solid black;
+} */
+#image{
+    /* border: 1px solid red; */
+    height: 200px;
+    width: 200px;
+    margin-left: 80px;
+}
+#type{
+    /* border: 1px solid black; */
+    text-align: center;
+}
+#desc{
+    /* border: 1px solid black; */
+    text-align: center;
+}
+#price{
+    /* border: 1px solid black; */
+    text-align: center;
+}
+#remove_product{
+    margin-left: 120px;
+}

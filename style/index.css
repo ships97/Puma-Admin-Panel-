@@ -1,0 +1,51 @@
+#show_products a{
+    text-decoration: none;
+    color: black;
+}
+#show_products{
+    margin-left: 700px;
+}
+h2{
+    text-align: center;
+}
+#container{
+    width: 55%;
+    margin: auto;
+    /* margin-top: 20px; */
+    /* border: 1px solid red; */
+}
+#type{
+    width: 80%;
+    padding: 10px;
+    margin-left: 70px;
+    border: 1px solid black;
+}
+#desc{
+    width: 80%;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 70px;
+    border: 1px solid black;
+}
+#price{
+    width: 80%;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 70px;
+    border: 1px solid black;
+}
+#image{
+    width: 80%;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 70px;
+    border: 1px solid black;
+}
+#add_product{
+    width: 82.8%;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 70px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+}
